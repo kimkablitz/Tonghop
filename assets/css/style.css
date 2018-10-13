@@ -44,6 +44,8 @@ main {
 }
 #sidenav-overlay {
   background-color: none;
+  opacity: 0;
+  z-index: 0;
 }
 /* element.style {
     opacity: 0;
