@@ -22,6 +22,7 @@ font-weight: 400;
 }
 #name{
   color: black;
+  display: inline;
 }
 /* #user-image1 {
 position: relative;
