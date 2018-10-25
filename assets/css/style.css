@@ -23,12 +23,12 @@ font-weight: 400;
 #name{
   color: black;
 }
-#user-image1{
-  height: 40px;
-  width: 40px;
-  line-height: 20px;
-  border-radius: 50%;
-}
+/* #user-image1 {
+position: relative;
+border-radius: 50%;
+width: 100%;
+height: auto;
+} */
 .ml12 {
   font-weight: 200;
   font-size: 1.9em;
